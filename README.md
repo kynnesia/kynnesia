@@ -1,16 +1,12 @@
 ### Hello World 👋 It's Kynnesia!
-
 <br/>
-
 </a>
 <a href="https://www.linkedin.com/in/aleixcampsf/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <br />
 
 <br />
-
 Well, so this is it. This is my GitHub portal. Hope I can add some value to anything. 
 But, for now, I am just starting.
 
