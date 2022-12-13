@@ -1,4 +1,4 @@
-### Hello World 👋 It's Kynnesia!
+### Hello World 👋 It's Aleix!
 <br/>
 </a>
 <a href="https://www.linkedin.com/in/aleixcampsf/">
@@ -7,12 +7,12 @@
 <br />
 
 <br />
-Well, so this is it. This is my GitHub portal. Hope I can add some value to anything. 
+Well, so this is it. This is my GitHub portal. Hope I can add some value. 
 But, for now, I am just starting.
 
 
 **A snippet about me:**
-- 📊 I’m enrolled at LeWagon, doing an intensive Data Science Bootcamp.
+- 📊 Finished Data Science bootcamp at LeWagon.
 - 🎓 BA in Business Management.
 - 💬 Get in touch! Would love to know what you're into.✌
 - ⚡ I share some posts about my career path in [Linkedin](https://www.linkedin.com/in/aleixcampsf/recent-activity/shares/), if you are interested. 
